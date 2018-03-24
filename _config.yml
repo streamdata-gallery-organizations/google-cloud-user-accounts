@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-cloud-user-accounts.api.streamdata.gallery
+title: Streamdata Gallery Google Cloud User Accounts
+url: google-cloud-user-accounts.streamdata.gallery
 tag: Google Cloud User Accounts
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-cloud-user-accounts
 github_branch: master
 collections:
