@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Cloud User Accounts",
+	"description": "This is a repository of google cloud user accounts APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-cloud-user-accounts.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-cloud-user-accounts.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Cloud User Accounts",
+			"x-api-slug": "google-cloud-user-accounts",
+			"description": "Service for managing the global Google Cloud user accounts. This API reference is organized by resource type. Each resource type has one or more data representations and one or more methods.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png",
+			"humanURL": "https://cloud.google.com/compute/docs/access/user-accounts/api/latest/",
+			"baseURL": "://www.googleapis.com//clouduseraccounts/vm_alpha/projects",
+			"tags": "Google Cloud User Accounts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-user-accounts/master/_listings/google-cloud-user-accounts/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Cloud User Accounts",
+	"include": [
+		{
+			"name": "Google Cloud User Accounts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-cloud-user-accounts/master/_listings/google-cloud-user-accounts/apis.yaml"
+		}
+	]
+}
